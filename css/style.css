@@ -1,0 +1,9 @@
+#title {
+        background-color: teal;
+}
+
+
+.dogBark {
+        position: absolute;
+        border-radius: 70px;
+}
